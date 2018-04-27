@@ -262,7 +262,7 @@ manager: angrobe
  The Import Task Sequence Wizard finishes, and the **Deploy Windows 8.1 to Reference Computer** task sequence is added to the list of task sequences.  
 
 ###  <a name="EnableLTIDeployMonitor"></a> Step 3-5: Enable LTI Deployment Process Monitoring  
- Prior to deploying the reference computer (WDG-REF-01) with the LTI bootable media you created earlier in the process, enable monitoring of the LTI deployment process. You monitor the LTI deployment process in the Monitoring node in the deployment share. You enable monitoring on the **Monitoring** tab on the deployment share properties sheet. Later in the process, you will monitor the LTI deployment process.  
+ Prior to deploying the reference computer (WDG-REF-01) with the LTI bootable media you will create later in the process ([Step 4-1: Create the LTI Bootable Media](#CreateLTIBootable)), enable monitoring of the LTI deployment process. You monitor the LTI deployment process in the Monitoring node in the deployment share. You enable monitoring on the **Monitoring** tab on the deployment share properties sheet. Later in the process, you will monitor the LTI deployment process.  
 
  **To enable monitoring of the LTI deployment process**  
 
